@@ -1,0 +1,6 @@
+{
+  "name": "AdForge - Multi-Format AI Banner Ad Studio",
+  "description": "Generate high-converting banner ads in all standard sizes from product descriptions and URLs with dual-mode composition and 1K-4K resolution controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
